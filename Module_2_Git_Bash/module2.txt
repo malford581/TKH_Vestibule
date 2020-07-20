@@ -1,0 +1,3 @@
+﻿1. Git is a system used for tracking changes in computer files both on individual and collaborative usage. It is different from GitHub because it is used on your local machine and uses a branching model, while GitHub is used as a repository, is cloud based and others can edit your work when shared on the cloud.
+2. The terminal allows us to bypass the consumer graphic interface and provides a “doorway” into a more efficient way to utilize the full capability of a computer. 
+3. Three of the major benefits of version control are keeping track of changes as they are made, merge individual workspaces with the collective workspace and makes debugging more streamline.
