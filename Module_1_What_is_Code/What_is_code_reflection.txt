@@ -8,4 +8,4 @@
 8. Data is collected information and when code uses this data it transforms it into a function used in software.
 9. A framework is a basic guideline in which code would be written around.
 10. Debugging is when code is run line by line to find the exact place where an error has occurred.
-11. I want to learn how to code because I believe that it will serve as a catalyst in my life. I've seen the innovation that coders are capable of and I've also seen how much of a financial impact it can make for me and my family. Coding also teaches other skills like problem solving and time management which I am more than happy to further develop for my career and personal life.
+11. I want to learn how to code because I believe that it will serve as a catalyst in my life. I've seen the innovation that coders are capable of and I've also seen how much of a financial impact it can make on them and their families. Coding also teaches other skills like problem solving and time management which I am more than happy to further develop for my career and personal life. Overall, I think learning to code is going to be my breakthrough.
